@@ -1,5 +1,5 @@
 # hangman
-Part 4 of 12 beginner python projects by Kylie Ying
+Part 5 of 12 beginner python projects by Kylie Ying
 
 ## Notes
 - Had also took inspiration from [MikhailLenko](https://github.com/MikhailLenko)'s take on [hangman](https://github.com/kiteco/python-youtube-code/tree/master/build-hangman-in-python)
